@@ -1,15 +1,24 @@
 {
-  "name": "hw1_template",
+  "name": "fainer_noah_interactive",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
   "scripts": {
-    "start": "node app"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nfainer/Fainer_Noah_Interactive.git"
+  },
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nfainer/Fainer_Noah_Interactive/issues"
+  },
+  "homepage": "https://github.com/nfainer/Fainer_Noah_Interactive#readme",
   "dependencies": {
-    "express": "^4.17.1"
-  }
+    "express": "^4.17.1",
+    "hbs": "^4.0.6"
+  },
+  "devDependencies": {}
 }
